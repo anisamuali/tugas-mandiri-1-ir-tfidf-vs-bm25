@@ -1,0 +1,15 @@
+ID,Query,Jml dok terambil,AP TF-IDF,AP BM25,R-Prec TF-IDF,R-Prec BM25,Kendall tau,Top-1 sama?,Urutan top-5 identik?
+Q01,kapal virgo hilang kontak,9 / 9,1.0,1.0,1.0,1.0,0.8333333333333334,Tidak (D1 vs D24),Tidak
+Q02,pencarian jurnalis hilang selat sunda,14 / 14,1.0,1.0,1.0,1.0,0.8901098901098902,Ya,Tidak
+Q03,KTT BRICS New Delhi,14 / 14,1.0,1.0,1.0,1.0,0.8021978021978022,Tidak (D23 vs D16),Tidak
+Q04,hubungan China India,18 / 18,0.5333333333333333,1.0,0.3333333333333333,1.0,0.7908496732026145,Tidak (D23 vs D5),Tidak
+Q05,konflik Yaman Houthi Laut Merah,15 / 15,1.0,1.0,1.0,1.0,0.8285714285714286,Ya,Tidak
+Q06,Iran Amerika Serikat Selat Hormuz,13 / 13,1.0,1.0,1.0,1.0,0.8974358974358972,Ya,Tidak
+Q07,FIFA ASEAN Cup 2026,2 / 2,1.0,1.0,1.0,1.0,-1.0,Tidak (D4 vs D7),Tidak
+Q08,nilai Pancasila anggota MPR,20 / 20,1.0,1.0,1.0,1.0,0.8736842105263158,Ya,Ya
+Q09,tersangka kebakaran hutan dan lahan,9 / 9,1.0,1.0,1.0,1.0,0.8333333333333334,Ya,Tidak
+Q10,kualitas udara Jakarta,9 / 9,0.75,1.0,0.5,1.0,0.7777777777777778,Ya,Tidak
+Q11,tim SAR Basarnas pencarian,17 / 17,0.9266666666666665,0.9266666666666665,0.8,0.8,0.764705882352941,Ya,Tidak
+Q12,pemimpin BRICS pernyataan bersama,16 / 16,0.8875,1.0,0.75,1.0,0.6833333333333333,Ya,Tidak
+Q13,presiden Xi Jinping,12 / 12,1.0,1.0,1.0,1.0,0.7272727272727272,Tidak (D23 vs D9),Tidak
+Q14,museum pembangunan rumah kebudayaan,20 / 20,1.0,1.0,1.0,1.0,0.7999999999999999,Tidak (D50 vs D10),Tidak
